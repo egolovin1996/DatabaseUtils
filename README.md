@@ -1,2 +1,2 @@
 # DatabaseUtils
-Tools for work with Db. Create backups. Encrypt connection strings
+Tools for work with Db. Create and restore backups.
